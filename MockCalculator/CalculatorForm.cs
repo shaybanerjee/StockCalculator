@@ -389,7 +389,7 @@ namespace StockCalculator
         private void Worker()
         {
 
-            DateTime twentyLength = DateTime.Now.Subtract(TimeSpan.FromDays(20));
+            DateTime twentyLength = DateTime.Now.Subtract(TimeSpan.FromDays(70));
             StringBuilder myString = new StringBuilder();
             WebClientStock webStock = new WebClientStock();
             Dictionary<DateTime, StockItem> retrievedStockData = new Dictionary<DateTime, StockItem>();
