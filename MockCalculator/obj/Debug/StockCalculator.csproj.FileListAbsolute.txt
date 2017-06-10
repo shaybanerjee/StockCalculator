@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\bin\Debug\MockCalculator.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\bin\Debug\MockCalculator.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\bin\Debug\MockCalculator.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\obj\Debug\StockCalculator.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\obj\Debug\MockCalculator.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\obj\Debug\StockCalculator.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\obj\Debug\MockCalculator.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\obj\Debug\MockCalculator.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\MockCalculator\MockCalculator\obj\Debug\StockCalculator.csprojResolveAssemblyReference.cache
